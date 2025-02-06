@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Classic",
+      "price": 10.99,
+      "availability": "In Stock",
+      "image": "https://i.postimg.cc/1tZZvSqz/The-Great-Gatsby.jpg",
+      "description": "A novel set in the Jazz Age that explores themes of wealth, love, and the American Dream.",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Dystopian",
+      "price": 8.99,
+      "availability": "In Stock",
+      "image": "https://i.postimg.cc/Z52mypYp/1984.jpg",
+      "description": "A dystopian novel depicting a totalitarian society under constant surveillance.",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Classic",
+      "price": 12.49,
+      "availability": "Out of Stock",
+      "image": "https://i.postimg.cc/66kH1Jsq/To-Kill-a-Mockingbird.jpg",
+      "description": "A story of racial injustice and moral growth in the American South.",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "price": 15.99,
+      "availability": "In Stock",
+      "image": "https://i.postimg.cc/Bnsm4TnG/The-Hobbit.jpg",
+      "description": "A classic fantasy novel about Bilbo Baggins' adventure to reclaim a treasure from a dragon.",
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "price": 17.99,
+      "availability": "In Stock",
+      "image": "https://i.postimg.cc/BQXVqhPJ/Atomic-Habits.jpg",
+      "description": "A book on how small habits can lead to remarkable results over time.",
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Philosophical Fiction",
+      "price": 11.99,
+      "availability": "In Stock",
+      "image": "https://i.postimg.cc/qvKDKzGY/The-Alchemist.jpg",
+      "description": "A philosophical novel about following one's dreams and discovering one's destiny.",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "category": "History",
+      "price": 20.99,
+      "availability": "In Stock",
+      "image": "https://i.postimg.cc/85pZxwVQ/Sapiens-A-Brief-History-of-Humankind.jpg",
+      "description": "A deep dive into the history of humankind, exploring evolution, culture, and progress.",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "category": "Finance",
+      "price": 9.99,
+      "availability": "In Stock",
+      "image": "https://i.postimg.cc/fL88sXw3/Rich-Dad-Poor-Dad.jpg",
+      "description": "A book that challenges conventional money management and teaches financial literacy.",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "category": "Science Fiction",
+      "price": 14.99,
+      "availability": "Out of Stock",
+      "image": "https://i.postimg.cc/Y0jbC99d/Dune.jpg",
+      "description": "A sci-fi masterpiece about a desert planet and the battle for its valuable resource, spice.",
+      "rating": 4.9
+    },
+    {
+      "id": 10,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 18.99,
+      "availability": "In Stock",
+      "image": "https://i.postimg.cc/FsdTt7wR/The-Psychology-of-Money.jpg",
+      "description": "A book that explores how people think about money and financial decision-making.",
+      "rating": 4.8
+    }
+  ]  
