@@ -1,0 +1,18 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+.ant-steps-item-process .ant-steps-item-icon {
+  background-color: #ac1352 !important;
+  border-color: #ac1352 !important;
+}
+
+.ant-steps-item-process .ant-steps-item-icon > .ant-steps-icon {
+  color: white !important;
+}
+
+.ant-steps-item-finish .ant-steps-item-icon {
+  background-color: #ac1352 !important;
+  border-color: #ac1352 !important;
+}
