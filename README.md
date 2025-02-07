@@ -23,6 +23,7 @@ Payment: SurjoPay
 
 ⚡ Setup
 Clone the repo
+
 cd book-shop  
 Install dependencies:
 npm install  
