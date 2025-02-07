@@ -26,8 +26,11 @@ Clone the repo
 
 cd book-shop  
 Install dependencies:
+
 npm install  
 Start the server:
+
 npm start
 Open the frontend:
+
 npm start
